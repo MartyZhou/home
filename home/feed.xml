@@ -4,10 +4,10 @@
     <title>Home</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://martyzhou.github.io/</link>
-    <atom:link href="http://martyzhou.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 13 Sep 2016 15:43:48 +0800</pubDate>
-    <lastBuildDate>Tue, 13 Sep 2016 15:43:48 +0800</lastBuildDate>
+    <link>http://martyzhou.github.io/home/</link>
+    <atom:link href="http://martyzhou.github.io/home/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 13 Sep 2016 15:53:00 +0800</pubDate>
+    <lastBuildDate>Tue, 13 Sep 2016 15:53:00 +0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Tue, 13 Sep 2016 14:47:40 +0800</pubDate>
-        <link>http://martyzhou.github.io/jekyll/update/2016/09/13/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://martyzhou.github.io/jekyll/update/2016/09/13/welcome-to-jekyll.html</guid>
+        <link>http://martyzhou.github.io/home/jekyll/update/2016/09/13/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://martyzhou.github.io/home/jekyll/update/2016/09/13/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
